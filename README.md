@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C++: accessing elements of a `std::vector` after it has been cleared using `vec.clear()`.  The `bug.cpp` file contains the erroneous code. The `bugSolution.cpp` file shows how to correctly handle this situation and avoid undefined behavior.
